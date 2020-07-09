@@ -1,5 +1,5 @@
 # data types
-"안녕하세요"
+"char"
 30
 TRUE
 date()
